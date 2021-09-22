@@ -27,12 +27,12 @@ var config = {
     imgs: {
         // "心爱的小可爱": "./imgs/xiaokeai.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
-        "故宫": "./imgs/gugong.jpg", 
-        "地铁": "./imgs/ditie.jpg", 
-        "浦东": "./imgs/pudong.jpg", 
-        "毕业": "./imgs/biye.jpg", 
+        "故宫": "./imgs/gugong.jpg",
+        "地铁": "./imgs/ditie.jpg",
+        "浦东": "./imgs/pudong.jpg",
+        "毕业": "./imgs/biye.jpg",
         "看这个猪": "./imgs/pig1.jpg", 
-        "你好美": "./imgs/pig3.jpg"
+        "你好美": "./imgs/pig3.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
